@@ -7,6 +7,7 @@
   <groupId>tr.com.ozturk</groupId>
   <artifactId>pizzacim</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>jar</packaging>
 
   <name>pizzacim</name>
   <!-- FIXME change it to the project's website -->
