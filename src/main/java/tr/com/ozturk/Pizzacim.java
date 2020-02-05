@@ -1,6 +1,8 @@
+package tr.com.ozturk;
+
 import java.util.ArrayList;
 
-public class pizzacim {
+public class Pizzacim {
 
     // Tüm sabitler...
     public ArrayList<Pizza> siparisler = new ArrayList<>();
@@ -8,7 +10,7 @@ public class pizzacim {
 
     public static void main(String[] args) {
 
-        pizzacim test = new pizzacim();
+        Pizzacim test = new Pizzacim();
 
         Pizza p1 = new Pizza();
         p1.malzemeEkle("SUCUK");
