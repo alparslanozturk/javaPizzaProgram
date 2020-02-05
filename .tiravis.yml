@@ -1,0 +1,6 @@
+sudo: required
+services:
+  - docker_container
+
+before_install:
+  - docker build -t alparslanozturk/pizzacim
